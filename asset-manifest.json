@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SNAKE/static/css/main.e6c13ad2.css",
+    "main.js": "/SNAKE/static/js/main.cade0926.js",
+    "index.html": "/SNAKE/index.html",
+    "main.e6c13ad2.css.map": "/SNAKE/static/css/main.e6c13ad2.css.map",
+    "main.cade0926.js.map": "/SNAKE/static/js/main.cade0926.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cade0926.js"
+  ]
+}
